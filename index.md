@@ -8,3 +8,7 @@ I have eddited the index file to crete a H1 'Hello' title as shown above.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
